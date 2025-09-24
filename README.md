@@ -1,2 +1,2 @@
-# openstack-tools
-Some Openstack scripts!!
+before executing scripts source your project RC file!
+have fun;)
